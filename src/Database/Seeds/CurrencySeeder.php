@@ -96,7 +96,7 @@ class CurrencySeeder extends Seeder
             ['code' =>'QAR' , 'name' => 'Qatari Rial', 'symbol' => '﷼' ],
             ['code' =>'RON' , 'name' => 'New Leu', 'symbol' => 'lei' ],
             ['code' =>'RSD' , 'name' => 'Serbian Dinar', 'symbol' => 'Дин.' ],
-            ['code' =>'RUB' , 'name' => 'Russian Ruble', 'symbol' => 'руб' ],
+            ['code' =>'RUB' , 'name' => 'Russian Ruble', 'symbol' => '₽' ],
             ['code' =>'SAR' , 'name' => 'Saudi Riyal', 'symbol' => '﷼' ],
             ['code' =>'SBD' , 'name' => 'Solomon Islands Dollar', 'symbol' => '$' ],
             ['code' =>'SCR' , 'name' => 'Seychelles Rupee', 'symbol' => '₨' ],
